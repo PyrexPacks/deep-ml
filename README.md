@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**9** solved · 5 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,7 +12,20 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-04 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-09-04 | [solution](problems/0003-reshape-matrix) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-04 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-04 | [solution](problems/0121-vector-element-wise-sum) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-09-15 | [solution](problems/0312-quotient-rule-for-derivatives) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-04 | [solution](math/0009-matrix-basics) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-04 | [solution](math/0007-vector-operations) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-04 | [solution](math/0010-matrix-multiplication) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-04 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 
