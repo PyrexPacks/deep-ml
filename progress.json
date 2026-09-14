@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:27:13.506Z",
+  "generated_at": "2026-09-15T07:27:15.457Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -148,6 +148,54 @@
       "last_pushed_at": "2026-09-07T10:19:31.804Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-14T06:45:05.794Z",
+      "last_pushed_at": "2026-09-14T06:45:05.794Z",
+      "language": "python",
+      "lines": 4
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-14T09:37:52.184Z",
+      "last_pushed_at": "2026-09-14T09:37:52.184Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-14T10:11:19.629Z",
+      "last_pushed_at": "2026-09-14T10:11:19.629Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-09-14T11:41:27.791Z",
+      "last_pushed_at": "2026-09-14T11:41:27.791Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
